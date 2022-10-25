@@ -1,12 +1,10 @@
 @font-face {
     font-family: "LineSeed";
-    src: url('https://raw.githubusercontent.com/cpx2017/dbozoneFont/main/Fonts/DBOzoneXLiItv3.2.ttf') format("truetype");
-    src: url('https://raw.githubusercontent.com/cpx2017/dbozoneFont/main/Fonts/DBOzoneXLiv3.2.ttf') format("truetype");
-    src: url('https://raw.githubusercontent.com/cpx2017/dbozoneFont/main/Fonts/DBOzoneXMedItv3.2.ttf') format("truetype");
-    src: url('https://raw.githubusercontent.com/cpx2017/dbozoneFont/main/Fonts/DBOzoneXMedv3.2.ttf') format("truetype");
-    src: url('https://raw.githubusercontent.com/cpx2017/dbozoneFont/main/Fonts/DBOzoneXUlLiItv3.2.ttf') format("truetype");
-    src: url('https://raw.githubusercontent.com/cpx2017/dbozoneFont/main/Fonts/DBOzoneXUlLiv3.2.ttf') format("truetype");
-    src: url('https://raw.githubusercontent.com/cpx2017/dbozoneFont/main/Fonts/DBOzoneXv3.2.ttf') format("truetype");
+    src: url('https://raw.githubusercontent.com/cpx2017/LineSeedFont/main/Fonts/LINESeedSansTH_W_Bd.woff2') format("woff2");
+    src: url('https://raw.githubusercontent.com/cpx2017/LineSeedFont/main/Fonts/LINESeedSansTH_W_He.woff2') format("truetype");
+    src: url('https://raw.githubusercontent.com/cpx2017/LineSeedFont/main/Fonts/LINESeedSansTH_W_Rg.woff2') format("truetype");
+    src: url('https://raw.githubusercontent.com/cpx2017/LineSeedFont/main/Fonts/LINESeedSansTH_W_Th.woff2') format("truetype");
+    src: url('https://raw.githubusercontent.com/cpx2017/LineSeedFont/main/Fonts/LINESeedSansTH_W_XBd.woff2') format("truetype");
   }
   body {
     font-family: 'LineSeed', sans-serif !important;
