@@ -1,4 +1,4 @@
-# DB Ozone Webfont
+# Line Seed Webfont
 Font Line Seed - ฟ้อนด์ตัวเดียวกับที่ใช้ในแอปไลน์ (ทำงานภายใต้  CDN)
 
 สามารถใช้งานส่วนตัวและเชิงการค้าได้
