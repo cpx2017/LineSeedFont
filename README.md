@@ -13,4 +13,4 @@ https://cdn.jsdelivr.net/gh/cpx2017/lineSeedFont@main/style.css
 <link href='https://cdn.jsdelivr.net/gh/cpx2017/lineSeedFont@main/style.css' rel='stylesheet'>
 ```
 
-ตัวอย่างการแสดงผลฟ้อนต์หลังเรียกใช้งานที่ https://cpx2017.github.io/lineSeedFont
+ตัวอย่างการแสดงผลฟ้อนต์หลังเรียกใช้งานที่ https://cpx2017.github.io/LineSeedFont
